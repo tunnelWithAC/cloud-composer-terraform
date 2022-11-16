@@ -1,3 +1,6 @@
+## Google Cloud Composer Terraform
+
+PoC work for setting up Google Cloud Composer using Airflow 2 as part of a migration away from Airflow 1.
 
 ```
 cd src/infrastructure
